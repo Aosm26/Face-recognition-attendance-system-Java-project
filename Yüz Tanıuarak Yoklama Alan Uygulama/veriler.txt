@@ -1,0 +1,9 @@
+21181617003,Gorkem,Sahinoglu
+21181617016,Ali,Osman
+21181617004,Turgay,Ceylan
+21181617002,Alper,Doğru
+21181617005,Utku,Ozuak
+21181617001,Mehmet,Demir
+21181617007,Furkan,Elmas
+21181617009,Mehmet,Yusuf
+21181616029,Nezahat,Korkmaz
